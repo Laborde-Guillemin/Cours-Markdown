@@ -2,13 +2,16 @@
 - Bonjour ceci est une petit typs de révition en markdown.
 ___
 
-### Tous d'abord mettre des mots en gras: On utilise `**m**`  
+### Tous d'abord mettre des mots en gras: On utilise `**m**` ou `__M__`
 ex: **M**   
+
+### Pour mettre un texte en italique `_italique_` ou `*italique*`
+ex: _italique_
+
+### Enfin on peut les fusionner `***Italique en gras***` ou `___Italique en gras___`
+ex: ***Italique en gras***
 ___
-### Pour mettre un texte en italique `*italique*`
-ex: *italique* 
-___
-### Pour réaliser un tableau on utilise aussi `| :- | :- |`
+### Pour réaliser un tableau on utilise `| :- | :- |` pour le mettre à gauche, `| :--: | :--: |` pour le mettre au centre, `| -: | -: |` pour le mettre à droite.
 ex:
 | Le premier | second | troisième |  
 | :--------- | :----- | :-------- |  
