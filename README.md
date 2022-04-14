@@ -11,7 +11,7 @@ ex: _italique_
 ### Enfin on peut les fusionner `***Italique en gras***` ou `___Italique en gras___`
 ex: ***Italique en gras***
 ___
-### Pour réaliser un tableau on utilise `| :- | :- |` pour le mettre à gauche, `| :--: | :--: |` pour le mettre au centre, `| -: | -: |` pour le mettre à droite.
+### Pour faire un tableau on utilise `| :- | :- |` pour le mettre à gauche, `| :--: | :--: |` pour le mettre au centre, `| -: | -: |` pour le mettre à droite.
 ex:
 | Le premier | second | troisième |  
 | :--------- | :----- | :-------- |  
