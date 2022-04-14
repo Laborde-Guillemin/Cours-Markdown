@@ -1,4 +1,4 @@
-# Cours-Markdown
+    # Cours-Markdown
 - Bonjour ceci est une petit typs de révition en markdown.
 ___
 
@@ -26,6 +26,10 @@ ex:
 2. deux 
 3. trois
 ___ 
-### Pour mettre un liens on peut utiliser '[Lien]'
+### Pour mettre un liens on peut utiliser `[Lien](votre lien)`
 ex: [Lien](https://github.com/Laborde-Guillemin) ver mon profil.  
+
+### Ainsi on peut aussi mettre des images `![alt text](chemin de l'image)`
+
+ex: ![alt text](imageCours.jpg)
 ___
