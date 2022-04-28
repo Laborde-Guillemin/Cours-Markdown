@@ -34,5 +34,5 @@ ex: [Lien](https://github.com/Laborde-Guillemin) ver mon profil.
 
 ### Ainsi on peut aussi mettre des images `![alt text](chemin de l'image)`
 
-ex: ![alt text](imageCours.jpg)
+ex: ![alt text](img.webp)
 ___
